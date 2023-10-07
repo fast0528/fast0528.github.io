@@ -1,4 +1,4 @@
-﻿[
+[
 {
 "id":1,
 "shopName":"快乐柠檬",
@@ -7,8 +7,8 @@
 "distributionCost":5,
 "feature":"广外大街饮品回头率第5名",
 "time":"配送约30分钟",
-"banner":"http://172.16.43.20:8080/order/img/banner/banner1.png",
-"shopPic":"http://172.16.43.20:8080/order/img/shop/shop1.png",
+"banner":"https://fast0528.github.io/order/img/banner/banner1.png",
+"shopPic":"https://fast0528.github.io/order/img/shop/shop1.png",
 "shopNotice":"公告：奶茶味道很棒哟！",
 "foodList":[
 	{ 
@@ -18,7 +18,7 @@
 	"saleNum":"月售336 好评度100%",
 	"price":14,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food1.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food1.png"
 	},
 	{
 	"foodId":"2",
@@ -27,7 +27,7 @@
 	"saleNum":"月售259 好评度86%",
 	"price":17,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food2.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food2.png"
 	},
 	{
 	"foodId":"3",
@@ -36,7 +36,7 @@
 	"saleNum":"月售228 好评度80%",
 	"price":20,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food3.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food3.png"
 	}
 	]
 },
@@ -48,8 +48,8 @@
 "distributionCost":2,
 "feature":"广外大街饮品人气第3名",
 "time":"配送约30分钟",
-"banner":"http://172.16.43.20:8080/order/img/banner/banner2.png",
-"shopPic":"http://172.16.43.20:8080/order/img/shop/shop2.png",
+"banner":"https://fast0528.github.io/order/img/banner/banner2.png",
+"shopPic":"https://fast0528.github.io/order/img/shop/shop2.png",
 "shopNotice":"公告：鲜百香双响炮酸酸甜甜好喝哦......",
 "foodList":[
 	{ 
@@ -59,7 +59,7 @@
 	"saleNum":"月售930 好评度100%",
 	"price":16,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food21.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food21.png"
 	},
 	{
 	"foodId":"2",
@@ -68,7 +68,7 @@
 	"saleNum":"月售606 好评度88%",
 	"price":12,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food22.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food22.png"
 	},
 	{
 	"foodId":"3",
@@ -77,7 +77,7 @@
 	"saleNum":"月售400 好评度80%",
 	"price":13,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food23.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food23.png"
 	}
 	]
 },
@@ -89,8 +89,8 @@
 "distributionCost":0,
 "feature":"蛋糕很好吃，奶油新鲜不腻，水果新鲜",
 "time":"配送约45分钟",
-"banner":"http://172.16.43.20:8080/order/img/banner/banner3.png",
-"shopPic":"http://172.16.43.20:8080/order/img/shop/shop3.png",
+"banner":"https://fast0528.github.io/order/img/banner/banner3.png",
+"shopPic":"https://fast0528.github.io/order/img/shop/shop3.png",
 "shopNotice":"公告：维尔纳斯蛋糕选用进口动物奶油制作，特别好吃。",
 "foodList":[
 	{ 
@@ -100,7 +100,7 @@
 	"saleNum":"月售30 好评度100%",
 	"price":118,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food31.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food31.png"
 	},
 	{
 	"foodId":"2",
@@ -109,7 +109,7 @@
 	"saleNum":"月售20 好评度90%",
 	"price":120,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food32.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food32.png"
 	},
 	{
 	"foodId":"3",
@@ -118,7 +118,7 @@
 	"saleNum":"月售10 好评度90%",
 	"price":130,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food33.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food33.png"
 	}
 	]
 },
@@ -130,8 +130,8 @@
 "distributionCost":2,
 "feature":"挺不错的，水果也挺新鲜",
 "time":"配送约59分钟",
-"banner":"http://172.16.43.20:8080/order/img/banner/banner4.png",
-"shopPic":"http://172.16.43.20:8080/order/img/shop/shop4.png",
+"banner":"https://fast0528.github.io/order/img/banner/banner4.png",
+"shopPic":"https://fast0528.github.io/order/img/shop/shop4.png",
 "shopNotice":"公告：选用进口原料，每一步骤我们都追求卓越。",
 "foodList":[
 	{ 
@@ -141,7 +141,7 @@
 	"saleNum":"月售3329 好评度93%",
 	"price":5,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food41.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food41.png"
 	},
 	{
 	"foodId":"2",
@@ -150,7 +150,7 @@
 	"saleNum":"月售2000 好评度90%",
 	"price":18,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food42.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food42.png"
 	},
 	{
 	"foodId":"3",
@@ -159,7 +159,7 @@
 	"saleNum":"月售154 好评度90%",
 	"price":17,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food43.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food43.png"
 	}
 	]
 },
@@ -171,8 +171,8 @@
 "distributionCost":7,
 "feature":"茶的味道很浓郁",
 "time":"配送约55分钟",
-"banner":"http://172.16.43.20:8080/order/img/banner/banner5.png",
-"shopPic":"http://172.16.43.20:8080/order/img/shop/shop5.png",
+"banner":"https://fast0528.github.io/order/img/banner/banner5.png",
+"shopPic":"https://fast0528.github.io/order/img/shop/shop5.png",
 "shopNotice":"公告：隐秘而伟大的联名杯套，备注就送，送，送！！！限量，送完为止！",
 "foodList":[
 	{ 
@@ -182,7 +182,7 @@
 	"saleNum":"月售199 好评度84%",
 	"price":16,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food51.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food51.png"
 	},
 	{
 	"foodId":"2",
@@ -191,7 +191,7 @@
 	"saleNum":"月售180 好评度80%",
 	"price":13,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food52.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food52.png"
 	},
 	{
 	"foodId":"3",
@@ -200,7 +200,7 @@
 	"saleNum":"月售74 好评度100%",
 	"price":14,
 	"count":0,
-	"foodPic":"http://172.16.43.20:8080/order/img/food/food53.png"
+	"foodPic":"https://fast0528.github.io/order/img/food/food53.png"
 	}
 	]
 }
